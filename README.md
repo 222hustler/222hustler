@@ -5,27 +5,22 @@
 
 <br/>
 
+<!-- WHO AM I -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=30669B&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Red+Team+Focus;Machine+Learning+from+Scratch;HackTheBox+%7C+CTF+Player;Belgium+%7C+20+y%2Fo;Always+learning." alt="Typing SVG"/>
+  <h3>Who am I</h3>
 </div>
 
-<br/><br/>
-
-<!-- WHO AM I + NANAMI -->
 <table border="0" cellspacing="0" cellpadding="20" width="100%">
 <tr>
 <td valign="middle" width="65%" align="center">
 
-<h3>Who am I</h3>
-
-> 20 y/o developer and cybersecurity learner from Belgium.
+> Developer and cybersecurity learner from Belgium.
 > I build from scratch to understand how things work under the hood.
 > My goal — red team security, breaking things legally for a living.
 
 <br/>
 
 <table border="0" cellspacing="0" cellpadding="6" align="center">
-<tr><td><b>Location</b></td><td>Belgium</td></tr>
 <tr><td><b>Focus</b></td><td>Red Team / Offensive Security / ML</td></tr>
 <tr><td><b>Learning</b></td><td>HTB Academy — Linux, Web attacks, Network</td></tr>
 <tr><td><b>Building</b></td><td>Python worm — isolated lab (Metasploitable2)</td></tr>
