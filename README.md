@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/banner.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/banner.svg" width="100%" alt="banner"/>
 </div>
 
 <br/>
@@ -20,17 +20,41 @@
 
 ---
 
-### About
+### Who am I
 
-```python
-class Hustler:
-    location   = "Belgium"
-    focus      = ["Red Team", "Cybersecurity", "Machine Learning"]
-    platforms  = ["HackTheBox Academy", "picoCTF", "OverTheWire"]
-    building   = ["Python worm", "Trojan", "Rootkit", "Kernel", "Security AI with ML"]
-    targets    = ["Nviso", "Toreon", "CCB", "Proximus", "Infrabel"]
-    motto      = "Learn everything. Fear nothing."
-```
+> 20 y/o self-taught developer and cybersecurity learner based in Belgium.
+> I build things from scratch to understand how they work at a deep level —
+> a neural network with no frameworks, a worm in an isolated lab, and soon a kernel.
+> My goal is to work in red team security and break things legally for a living.
+
+<br/>
+
+<table>
+  <tr>
+    <td>Location</td>
+    <td>Belgium</td>
+  </tr>
+  <tr>
+    <td>Focus</td>
+    <td>Red Team / Offensive Security / Machine Learning</td>
+  </tr>
+  <tr>
+    <td>Currently learning</td>
+    <td>HackTheBox Academy — Linux, Web attacks, Network analysis</td>
+  </tr>
+  <tr>
+    <td>Currently building</td>
+    <td>Python worm in isolated lab (Metasploitable2)</td>
+  </tr>
+  <tr>
+    <td>Next milestone</td>
+    <td>Security+ → OSCP</td>
+  </tr>
+  <tr>
+    <td>Approach</td>
+    <td>No shortcuts. Build from scratch. Document everything.</td>
+  </tr>
+</table>
 
 ---
 
@@ -43,14 +67,14 @@ class Hustler:
 
 ---
 
-### Upcoming Projects
+### Upcoming
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | Python Worm | Self-replicating worm — persistence, propagation, network scanning (isolated lab) | in progress |
 | Trojan | Disguised payload — process injection, C2 communication | planned |
 | Rootkit | Kernel-level stealth — hiding processes, files, network connections | planned |
-| Kernel | Building a minimal OS kernel from scratch | planned |
+| Kernel | Minimal OS kernel built from scratch | planned |
 | Security AI | ML-based threat detection and anomaly analysis | planned |
 
 ---
