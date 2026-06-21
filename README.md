@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=30669B&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Red+Team+Focus;Machine+Learning+from+Scratch;HackTheBox+%7C+CTF+Player;Belgium+%7C+20+y%2Fo;Always+learning." alt="Typing SVG"/>
 </div>
 
+![Metrics](https://raw.githubusercontent.com/222hustler/222hustler/main/github-metrics.svg)
+
 <br/>
 
 ---
