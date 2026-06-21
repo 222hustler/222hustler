@@ -21,7 +21,7 @@ class Hustler:
     location   = "Belgium"
     focus      = ["Red Team", "Cybersecurity", "Machine Learning"]
     platforms  = ["HackTheBox Academy", "picoCTF", "OverTheWire"]
-    building   = ["Python worm (isolated lab)", "Neural network from scratch"]
+    building   = ["Python worm", "Trojan", "Rootkit", "Security AI with ML"]
     targets    = ["Nviso", "Toreon", "CCB", "Proximus", "Infrabel"]
     motto      = "Learn everything. Fear nothing."
 ```
@@ -34,6 +34,17 @@ class Hustler:
 |---------|-------------|-------|
 | [small-neural-network](https://github.com/222hustler/small-neural-network) | Neural network from scratch — MNIST digit recognition, 92% accuracy, no frameworks | Python, NumPy |
 | [security-toolkit](https://github.com/222hustler/security-toolkit) | Cybersecurity learning portfolio — network analysis, tools and writeups | Python |
+
+---
+
+### Upcoming Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| Python Worm | Self-replicating worm built in isolated VM lab — persistence, propagation, network scanning | in progress |
+| Trojan | Disguised malicious payload — process injection, C2 communication | planned |
+| Rootkit | Kernel-level stealth techniques — hiding processes, files, network connections | planned |
+| Security AI | ML-based threat detection and anomaly analysis | planned |
 
 ---
 
@@ -53,10 +64,12 @@ Nmap & network analysis          in progress
 Web attacks (SQLi, XSS, LFI)     in progress
 Metasploit & exploitation        next
 Python worm (isolated lab)       in progress
+Trojan                           planned
 Linux & Windows privilege esc    next
 Active Directory attacks         next
 Buffer overflow                  next
-Python rootkit (isolated lab)    planned
+Rootkit (isolated lab)           planned
+Security AI with ML              planned
 Security+                        planned
 OSCP                             goal
 ```
