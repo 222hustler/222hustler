@@ -5,14 +5,16 @@
 
 <br/>
 
-<!-- WHO AM I -->
 <div align="center">
-  <h3>Who am I</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=30669B&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Red+Team+Focus;Machine+Learning+from+Scratch;HackTheBox+%7C+CTF+Player;Belgium+%7C+20+y%2Fo;Always+learning." alt="Typing SVG"/>
 </div>
 
-<table border="0" cellspacing="0" cellpadding="20" width="100%">
-<tr>
-<td valign="middle" width="65%" align="center">
+<br/><br/>
+
+<!-- WHO AM I -->
+<h3 align="center">Who am I</h3>
+
+<img src="https://raw.githubusercontent.com/222hustler/222hustler/main/nanami.png" width="200" align="right" alt="Nanami"/>
 
 > Developer and cybersecurity learner from Belgium.
 > I build from scratch to understand how things work under the hood.
@@ -20,22 +22,17 @@
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="6" align="center">
-<tr><td><b>Focus</b></td><td>Red Team / Offensive Security / ML</td></tr>
-<tr><td><b>Learning</b></td><td>HTB Academy — Linux, Web attacks, Network</td></tr>
-<tr><td><b>Building</b></td><td>Python worm — isolated lab (Metasploitable2)</td></tr>
-<tr><td><b>Goal</b></td><td>Security+ → OSCP</td></tr>
-<tr><td><b>Approach</b></td><td>No shortcuts. Build from scratch.</td></tr>
-</table>
+**Focus** — Red Team / Offensive Security / ML
 
-</td>
-<td valign="bottom" width="35%" align="center">
-<img src="https://raw.githubusercontent.com/222hustler/222hustler/main/nanami.png" width="230" alt="Nanami"/>
-</td>
-</tr>
-</table>
+**Learning** — HTB Academy — Linux, Web attacks, Network analysis
 
-<br/>
+**Building** — Python worm in isolated lab (Metasploitable2)
+
+**Goal** — Security+ → OSCP
+
+**Approach** — No shortcuts. Build from scratch. Document everything.
+
+<br/><br/>
 
 <div align="center">
 <h3>Projects</h3>
