@@ -18,29 +18,29 @@
 
 > Developer and cybersecurity learner from Belgium.
 > I build from scratch to understand how things work under the hood.
-> My goal — red team security, breaking things legally for a living.
+> My goal: red team security, breaking things legally for a living.
 
 <br/>
 
-**Focus** — Red Team / Offensive Security / ML
+**Focus :** Red Team / Offensive Security / ML
 
-**Learning** — HTB Academy — Linux, Web attacks, Network analysis
+**Learning :** HTB Academy · Linux · Web attacks · Network analysis
 
-**Building** — Python worm in isolated lab (Metasploitable2)
+**Building :** Python worm in isolated lab (Metasploitable2)
 
-**Goal** — Security+ → OSCP
+**Goal :** Security+ · OSCP
 
-**Approach** — No shortcuts. Build from scratch. Document everything.
+**Approach :** No shortcuts. Build from scratch. Document everything.
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <div align="center">
 <h3>Projects</h3>
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [small-neural-network](https://github.com/222hustler/small-neural-network) | Neural network from scratch — MNIST digit recognition, 92% accuracy, no frameworks | Python, NumPy |
-| [security-toolkit](https://github.com/222hustler/security-toolkit) | Cybersecurity learning portfolio — network analysis, tools and writeups | Python |
+| [small-neural-network](https://github.com/222hustler/small-neural-network) | Neural network from scratch · MNIST digit recognition · 92% accuracy · no frameworks | Python, NumPy |
+| [security-toolkit](https://github.com/222hustler/security-toolkit) | Cybersecurity learning portfolio · network analysis · tools and writeups | Python |
 
 </div>
 
@@ -51,9 +51,9 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| Python Worm | Self-replicating worm — persistence, propagation, network scanning | `in progress` |
-| Trojan | Disguised payload — process injection, C2 communication | `planned` |
-| Rootkit | Kernel-level stealth — hiding processes, files, network connections | `planned` |
+| Python Worm | Self-replicating worm · persistence · propagation · network scanning | `in progress` |
+| Trojan | Disguised payload · process injection · C2 communication | `planned` |
+| Rootkit | Kernel-level stealth · hiding processes · files · network connections | `planned` |
 | Kernel | Minimal OS kernel built from scratch | `planned` |
 | Security AI | ML-based threat detection and anomaly analysis | `planned` |
 
@@ -74,9 +74,9 @@
 | Done | In Progress | Planned |
 |:-----|:------------|:--------|
 | Python fundamentals | Web attacks (SQLi, XSS, LFI) | Trojan |
-| Neural network from scratch (92%) | Python worm — isolated lab | Linux & Windows PrivEsc |
-| Linux fundamentals | CTF — picoCTF, OverTheWire, HTB | Active Directory attacks |
-| HTB Academy — Linux, Nmap, Web | HTB Sherlocks | Buffer overflow |
+| Neural network from scratch (92%) | Python worm · isolated lab | Linux & Windows PrivEsc |
+| Linux fundamentals | CTF · picoCTF · OverTheWire · HTB | Active Directory attacks |
+| HTB Academy · Linux · Nmap · Web | HTB Sherlocks | Buffer overflow |
 | | | Rootkit |
 | | | Kernel from scratch |
 | | | Security AI with ML |
