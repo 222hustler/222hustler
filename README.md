@@ -1,16 +1,22 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/banner.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/banner.svg" width="100%" alt="banner"/>
 </div>
 
 <br/>
 
-<!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=30669B&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Red+Team+Focus;Machine+Learning+from+Scratch;HackTheBox+%7C+CTF+Player;Belgium+%7C+20+y%2Fo;Always+learning." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=30669B&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Red+Team+Focus;Machine+Learning+from+Scratch;HackTheBox+%7C+CTF+Player;Belgium+%7C+20+y%2Fo;Always+learning." alt="Typing SVG"/>
 </div>
 
 <br/>
+
+---
+
+<!-- METRICS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/github-metrics.svg" alt="Metrics"/>
+</div>
 
 ---
 
@@ -51,7 +57,9 @@ class Hustler:
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode&theme=light"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode&theme=light"/>
+</div>
 
 ---
 
@@ -63,12 +71,11 @@ Neural network from scratch      done  — 92% accuracy on MNIST
 Linux fundamentals               in progress
 Nmap & network analysis          in progress
 Web attacks (SQLi, XSS, LFI)     in progress
-Metasploit & exploitation        next
 Python worm (isolated lab)       in progress
 Trojan                           planned
-Linux & Windows privilege esc    next
-Active Directory attacks         next
-Buffer overflow                  next
+Linux & Windows privilege esc    planned
+Active Directory attacks         planned
+Buffer overflow                  planned
 Rootkit (isolated lab)           planned
 Kernel from scratch              planned
 Security AI with ML              planned
@@ -80,16 +87,14 @@ OSCP                             goal
 
 ### CTF Platforms
 
-![picoCTF](https://img.shields.io/badge/picoCTF-active-30669B?style=flat-square)
-![OverTheWire](https://img.shields.io/badge/OverTheWire_Bandit-active-30669B?style=flat-square)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-active-9fef00?style=flat-square&logo=hackthebox&logoColor=black)
-![HTB Sherlocks](https://img.shields.io/badge/HTB_Sherlocks-active-9fef00?style=flat-square&logo=hackthebox&logoColor=black)
+<div align="center">
 
----
+![picoCTF](https://img.shields.io/badge/picoCTF-active-30669B?style=for-the-badge)
+![OverTheWire](https://img.shields.io/badge/OverTheWire_Bandit-active-30669B?style=for-the-badge)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-active-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![HTB Sherlocks](https://img.shields.io/badge/HTB_Sherlocks-active-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
-### GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/222hustler/222hustler/main/github-metrics.svg)
+</div>
 
 ---
 
