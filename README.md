@@ -21,7 +21,7 @@ class Hustler:
     location   = "Belgium"
     focus      = ["Red Team", "Cybersecurity", "Machine Learning"]
     platforms  = ["HackTheBox Academy", "picoCTF", "OverTheWire"]
-    building   = ["Python worm", "Trojan", "Rootkit", "Security AI with ML"]
+    building   = ["Python worm", "Trojan", "Rootkit", "Kernel", "Security AI with ML"]
     targets    = ["Nviso", "Toreon", "CCB", "Proximus", "Infrabel"]
     motto      = "Learn everything. Fear nothing."
 ```
@@ -41,9 +41,10 @@ class Hustler:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Python Worm | Self-replicating worm built in isolated VM lab — persistence, propagation, network scanning | in progress |
-| Trojan | Disguised malicious payload — process injection, C2 communication | planned |
-| Rootkit | Kernel-level stealth techniques — hiding processes, files, network connections | planned |
+| Python Worm | Self-replicating worm — persistence, propagation, network scanning (isolated lab) | in progress |
+| Trojan | Disguised payload — process injection, C2 communication | planned |
+| Rootkit | Kernel-level stealth — hiding processes, files, network connections | planned |
+| Kernel | Building a minimal OS kernel from scratch | planned |
 | Security AI | ML-based threat detection and anomaly analysis | planned |
 
 ---
@@ -69,6 +70,7 @@ Linux & Windows privilege esc    next
 Active Directory attacks         next
 Buffer overflow                  next
 Rootkit (isolated lab)           planned
+Kernel from scratch              planned
 Security AI with ML              planned
 Security+                        planned
 OSCP                             goal
