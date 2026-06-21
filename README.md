@@ -13,13 +13,6 @@
 
 ---
 
-<!-- METRICS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/github-metrics.svg" alt="Metrics"/>
-</div>
-
----
-
 ### Who am I
 
 > 20 y/o self-taught developer and cybersecurity learner based in Belgium.
@@ -119,6 +112,26 @@ OSCP                             goal
 ![HTB Sherlocks](https://img.shields.io/badge/HTB_Sherlocks-active-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
+
+---
+
+### Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=222hustler&show_icons=true&title_color=30669B&icon_color=30669B&text_color=24321A&bg_color=ffffff&border_color=E9E4C6&count_private=true&hide_border=false"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=222hustler&layout=compact&title_color=30669B&text_color=24321A&bg_color=ffffff&border_color=E9E4C6"/>
+</div>
+
+<br/>
+
+<!-- METRICS EN BAS -->
+<details>
+<summary>Full GitHub Metrics</summary>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/github-metrics.svg" alt="Metrics"/>
+</div>
+</details>
 
 ---
 
