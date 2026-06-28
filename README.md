@@ -35,6 +35,7 @@
 |:--------|:------------|:------|
 | [small-neural-network](https://github.com/222hustler/small-neural-network) | Neural network from scratch · MNIST digit recognition · 92% accuracy · no frameworks | Python, NumPy |
 | [security-toolkit](https://github.com/222hustler/security-toolkit) | Cybersecurity learning portfolio · network analysis · tools and writeups | Python |
+| [automatic-recon-framework](https://github.com/222hustler/automatic-recon-framework) | Automated pentest recon tool · Nmap → Gobuster → Enum4linux → CVE lookup → Exploit mapping · generates Markdown report | Python |
 
 </div>
 
