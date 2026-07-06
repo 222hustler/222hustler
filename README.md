@@ -92,18 +92,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<h3>Stats</h3>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=222hustler&show_icons=true&title_color=30669B&icon_color=30669B&text_color=24321A&bg_color=ffffff&border_color=E9E4C6&count_private=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=222hustler&layout=compact&title_color=30669B&text_color=24321A&bg_color=ffffff&border_color=E9E4C6"/>
-
-</div>
-
-<br/>
-
 <details>
 <summary align="center">Full GitHub Metrics</summary>
 <br/>
