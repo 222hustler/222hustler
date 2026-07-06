@@ -1,4 +1,4 @@
-<!-- BANNER avec texte animé -->
+<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/bannersvg.svg" width="100%" alt="banner"/>
 </div>
@@ -10,19 +10,17 @@
 
 <img src="https://raw.githubusercontent.com/222hustler/222hustler/main/nanami.png" width="200" align="right" alt="Nanami"/>
 
-> Developer and cybersecurity learner from Belgium.
-> I build from scratch to understand how things work under the hood.
-> My goal: red team security, breaking things legally for a living.
+> Computer science student and developer from Belgium.
+> I build from scratch to understand how things actually work under the hood.
+> My goal: become a well-rounded systems / software engineer with deep fundamentals.
 
 <br/>
 
-**Focus :** Red Team / Offensive Security / ML
+**Focus :** Systems Programming / Operating Systems / Low-level Development
 
-**Learning :** HTB Academy · Linux · Web attacks · Network analysis
+**Learning :** OS internals · Linux · C/C++ · Computer architecture · Algorithms & data structures
 
-**Building :** Python worm in isolated lab (Metasploitable2)
-
-**Goal :** Security+ · OSCP
+**Building :** A minimal OS kernel from scratch
 
 **Approach :** No shortcuts. Build from scratch. Document everything.
 
@@ -34,8 +32,8 @@
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [small-neural-network](https://github.com/222hustler/small-neural-network) | Neural network from scratch · MNIST digit recognition · 92% accuracy · no frameworks | Python, NumPy |
-| [security-toolkit](https://github.com/222hustler/security-toolkit) | Cybersecurity learning portfolio · network analysis · tools and writeups | Python |
-| [automatic-recon-framework](https://github.com/222hustler/automatic-recon-framework) | Automated pentest recon tool · Nmap → Gobuster → Enum4linux → CVE lookup → Exploit mapping · generates Markdown report | Python |
+| [security-toolkit](https://github.com/222hustler/security-toolkit) | Systems & network learning portfolio · tools and writeups | Python |
+| [automatic-recon-framework](https://github.com/222hustler/automatic-recon-framework) | Automated network recon tool · Nmap → Gobuster → Enum4linux → CVE lookup → Exploit mapping · generates Markdown report | Python |
 
 </div>
 
@@ -46,11 +44,10 @@
 
 | Project | Description | Status |
 |:--------|:------------|:-------|
-| Python Worm | Self-replicating worm · persistence · propagation · network scanning | `in progress` |
-| Trojan | Disguised payload · process injection · C2 communication | `planned` |
-| Rootkit | Kernel-level stealth · hiding processes · files · network connections | `planned` |
-| Kernel | Minimal OS kernel built from scratch | `planned` |
-| Security AI | ML-based threat detection and anomaly analysis | `planned` |
+| Minimal OS Kernel | Bootloader · memory management · scheduler · basic filesystem, built from scratch | `in progress` |
+| Distributed Key-Value Store | Raft consensus · fault tolerance · distributed systems fundamentals | `planned` |
+| Custom Shell | POSIX-like shell with job control, pipes, redirection | `planned` |
+| Toy Compiler | Lexer → parser → AST → codegen for a small language | `planned` |
 
 </div>
 
@@ -58,7 +55,7 @@
 
 <div align="center">
 <h3>Skills</h3>
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vscode&theme=light"/>
 </div>
 
 <br/>
@@ -68,27 +65,10 @@
 
 | Done | In Progress | Planned |
 |:-----|:------------|:--------|
-| Python fundamentals | Web attacks (SQLi, XSS, LFI) | Trojan |
-| Neural network from scratch (92%) | Python worm · isolated lab | Linux & Windows PrivEsc |
-| Linux fundamentals | CTF · picoCTF · OverTheWire · HTB | Active Directory attacks |
-| HTB Academy · Linux · Nmap · Web | HTB Sherlocks | Buffer overflow |
-| | | Rootkit |
-| | | Kernel from scratch |
-| | | Security AI with ML |
-| | | Security+ |
-| | | OSCP |
-
-</div>
-
-<br/>
-
-<div align="center">
-<h3>CTF Platforms</h3>
-
-![picoCTF](https://img.shields.io/badge/picoCTF-active-30669B?style=for-the-badge)
-![OverTheWire](https://img.shields.io/badge/OverTheWire_Bandit-active-30669B?style=for-the-badge)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-active-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![HTB Sherlocks](https://img.shields.io/badge/HTB_Sherlocks-active-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)
+| Python fundamentals | OS internals (boot process, memory, scheduling) | Distributed systems (Raft) |
+| Neural network from scratch (92%) | Minimal kernel · x86 bootloader | Compiler basics |
+| Linux fundamentals | C programming | Custom shell |
+| Algorithms & data structures | Computer architecture | Networking from scratch (sockets, protocols) |
 
 </div>
 
